@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pract14</string>
+    <string name="true_buttons">true</string>
+    <string name="false_buttons">false</string>
+    <string name="questions">Kotlin - это ООП</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+</resources>
