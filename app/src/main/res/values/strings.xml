@@ -2,7 +2,8 @@
     <string name="app_name">Pract14</string>
     <string name="true_buttons">true</string>
     <string name="false_buttons">false</string>
-    <string name="questions">Kotlin - это ООП</string>
-    <string name="correct_toast">Correct!</string>
-    <string name="incorrect_toast">Incorrect!</string>
+    <string name="questions">Kotlin - это ООП язык?</string>
+    <string name="correct_toast">Правильный ответ</string>
+    <string name="incorrect_toast">Неправильный ответ</string>
+    <string name="questionTwo">Kotlin создали JetBrains</string>
 </resources>
